@@ -1,2 +1,2 @@
 # notes
-Daily notes
+平时的一些开发笔记。
